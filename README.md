@@ -14,13 +14,10 @@
 
 ## 🚀 Teknolojiler ve Araçlar
 
-### 💻 Programlama Dilleri  
-![PYTHON]((https://github.com/user-attachments/assets/753dc525-cd86-4507-a6d8-45ae42d66f83)
-)
-![JavaScript]((https://github.com/user-attachments/assets/6bb83846-0bea-4432-b1ce-c9651265d36f)
-)
-![C](![image](https://github.com/user-attachments/assets/c230820b-7ae2-4a1b-8dbb-bb251fc76bcc)
-)
+### 💻 Programming Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 
 
 
