@@ -1,18 +1,15 @@
 <img src="https://github.com/user-attachments/assets/60195ffb-560f-40ff-a656-9b0795babf4a" alt="Banner" width="1000"/>
 
-# 🙋‍♂️ Merhaba, Ben İsmail Umutluoğlu
+# 🙋‍♂️ Hi, I'm İsmail Umutluoğlu
 
-## Hakkımda 🚀
+## About Me 🚀
 
-- 🌱 Şu anda veri bilimi,görüntü işleme ve bilgisayar bilimleri üzerinde çalışıyorum.  
-- 🎯 Hedefim: Geleceğe umutla bakan her zaman ve heryerde istikrarlı bir şekilde çalışarak veri bilimi ve yapay zeka alanında yazılımlar geliştirmek .  
-- 🧑‍💻 Uzmanlıklarım: **[programlama dilleri, teknolojiler veya alanlar]**.  
-- 💬 Bana bilgisayar bilimleri ile ilgili (C,PYTHON,SQL,R...)  sorular sorabilirsiniz!  
-- 📫 Bana ulaşın: ismailumutluoglu10@gmail.com mail adresimden ulaşabilirsiniz. 
+- 🌱 Currently working on data science, image processing, and computer science.  
+- 🎯 My Goal: To develop software in data science and artificial intelligence by working consistently and with hope for the future.    
+- 💬 Feel free to ask me about computer science (C, PYTHON, SQL, R...)!  
+- 📫 Contact me: You can reach me via email at ismailumutluoglu10@gmail.com.  
 
 ---
-
-
 
 ## 💻 Programming Languages
 
@@ -40,29 +37,28 @@
     </a>
 </p>
 
+---
 
+## 📊 My GitHub Stats
 
-
-## 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
 
 ---
 
-## 📫 Bana Ulaşın
+## 📫 Contact Me
 
 - **LinkedIn:** [Ismail Umutluoglu](https://linkedin.com/in/IsmailUmutluoglu)  
 - **Instagram:** [ismail.umtlogöu](https://instagram.com/ismail.umtloglu)  
-- **E-posta:** (ismailumutluoglu10@gmail.com)
+- **Email:** (ismailumutluoglu10@gmail.com)
 
 ---
 
-## ✨ Eğlenceli Detaylar
+## ✨ Fun Facts
 
-- 🎮 Hobilerim arasında bilgisayar oyunları oynamak özellikle (LOL,CSGO)kitap okumak,basketbol oynamak,yüzmek,doğa yürüyüşü yapmak,kamp yapmak,dizi ve film izlemek(aksiyon filmleri) yer alıyor.  
-- 🌍 Dünyayı gezmek istiyorum! Özellikle doğayla iç içe olan yerleri gezmek , keşfetmek ve oralarda vakit geçirmek istiyorum.
+- 🎮 My hobbies include playing computer games (especially LOL, CSGO), reading books, playing basketball, swimming, hiking, camping, and watching movies/series (especially action movies).  
+- 🌍 I want to explore the world! Especially places surrounded by nature, to discover and spend time there.
 
 ---
 
-⭐️ [Profilime Gitmek İçin Tıklayın!](https://github.com/ismailumutluoglu)
+⭐️ [Click here to visit my profile!](https://github.com/ismailumutluoglu)
