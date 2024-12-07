@@ -15,9 +15,9 @@
 ## 🚀 Teknolojiler ve Araçlar
 
 ### 💻 Programlama Dilleri  
-![PYTHON](![image](https://github.com/user-attachments/assets/753dc525-cd86-4507-a6d8-45ae42d66f83)
+![PYTHON]((https://github.com/user-attachments/assets/753dc525-cd86-4507-a6d8-45ae42d66f83)
 )
-![JavaScript](![image](https://github.com/user-attachments/assets/6bb83846-0bea-4432-b1ce-c9651265d36f)
+![JavaScript]((https://github.com/user-attachments/assets/6bb83846-0bea-4432-b1ce-c9651265d36f)
 )
 ![C](![image](https://github.com/user-attachments/assets/c230820b-7ae2-4a1b-8dbb-bb251fc76bcc)
 )
