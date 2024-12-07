@@ -14,28 +14,41 @@
 
 ## 🚀 Teknolojiler ve Araçlar
 
-### 💻 Programming Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+## 💻 Programming Languages
+
+<p align="center">
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    </a>
+    <a href="https://www.r-project.org/" target="_blank">
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </a>
+</p>
+
 
 
 
 ### 🛠️ Araçlar  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 🌟 Portföy Projelerim
 
-| Proje Adı      | Açıklama               | Link                |
-| -------------- | ---------------------- | ------------------- |
-| **Proje 1**    | Kısa açıklama.         | [GitHub Repo](#)    |
-| **Proje 2**    | Kısa açıklama.         | [GitHub Repo](#)    |
-| **Proje 3**    | Kısa açıklama.         | [GitHub Repo](#)    |
-
----
 
 ## 📊 GitHub İstatistiklerim
 
@@ -46,8 +59,8 @@
 
 ## 📫 Bana Ulaşın
 
-- **LinkedIn:** [Ad Soyad](https://linkedin.com/in/kullaniciadi)  
-- **Twitter:** [@kullaniciadi](https://twitter.com/kullaniciadi)  
+- **LinkedIn:** [Ismail Umutluoglu](https://linkedin.com/in/IsmailUmutluoglu)  
+- **Twitter:** [ismail.umtlogöu](https://instagram.com/ismail.umtloglu)  
 - **E-posta:** (ismailumutluoglu10@gmail.com)
 
 ---
