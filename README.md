@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm İsmail Umutluoğlu</h1>
 <h3 align="center">I am a Computer Engineering Student at Karabuk University</h3>
 <p> I am studying Data Science and AI </p>
-<p>🔭 I’m currently working on </p>
-<p>🤝 I’m looking for help with</p>
 <p>🌱 I'm currently learning Data Science,Image Proccesing  and  Algorithms </p>
 <p>💬Ask me about C , Python , problem solving</p>
 
