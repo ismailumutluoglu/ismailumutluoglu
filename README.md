@@ -43,13 +43,6 @@
 
 
 
-### 🛠️ Araçlar  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-
-
 ## 📊 GitHub İstatistiklerim
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical)  
