@@ -7,7 +7,6 @@
 <p>🤝 I’m looking for help with</p>
 <p>🌱 I'm currently learning Data Science,Image Proccesing  and  Algorithms </p>
 <p>💬Ask me about C , Python , problem solving</p>
-<p>📫 How to reach me ismailumutluoglu10@gmail.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
