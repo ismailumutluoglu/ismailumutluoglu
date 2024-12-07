@@ -1,4 +1,4 @@
-# 🙋‍♂️ Merhaba, Ben [Ad Soyad]!
+# 🙋‍♂️ Merhaba, Ben İsmail Umutluoğlu
 
 ![Banner](https://via.placeholder.com/1200x400?text=Hoş+Geldiniz)
 
