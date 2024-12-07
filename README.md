@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm İsmail Umutluoğlu</h1>
 <h3 align="center">I am a Computer Engineering Student at Karabuk University</h3>
 <p> I am studying Data Science and AI </p>
-<p 🔭 I’m currently working on 
-🤝 I’m looking for help with
-🌱 I'm currently learning Data Science,Image Proccesing  and  Algorithms 
-💬Ask me about C , Python , problem solving
-📫 How to reach me ismailumutluoglu10@gmail.com </p>
+<p>🔭 I’m currently working on </p>
+<p>🤝 I’m looking for help with</p>
+<p>🌱 I'm currently learning Data Science,Image Proccesing  and  Algorithms </p>
+<p>💬Ask me about C , Python , problem solving</p>
+<p>📫 How to reach me ismailumutluoglu10@gmail.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
