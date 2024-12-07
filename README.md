@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/60195ffb-560f-40ff-a656-9b0795babf4a" alt="Banner" width="800"/>
+<img src="https://github.com/user-attachments/assets/60195ffb-560f-40ff-a656-9b0795babf4a" alt="Banner" width="1000"/>
 
 # 🙋‍♂️ Merhaba, Ben İsmail Umutluoğlu
 
