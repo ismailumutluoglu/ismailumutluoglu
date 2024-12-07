@@ -18,25 +18,25 @@
 
 <p align="center">
     <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="70" style="border-radius:50%;"/>
     </a>
     <a href="https://www.java.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="70" style="border-radius:50%;"/>
     </a>
     <a href="https://www.r-project.org/" target="_blank">
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+        <img src="https://img.icons8.com/ios-filled/100/007ACC/r-project.png" alt="R" width="70" style="border-radius:50%;"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="SQL" width="70" style="border-radius:50%;"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML" width="70" style="border-radius:50%;"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="70" style="border-radius:50%;"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="JavaScript" width="70" style="border-radius:50%;"/>
     </a>
 </p>
 
