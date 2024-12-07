@@ -1,4 +1,4 @@
- [![MasterHead]![image](https://github.com/user-attachments/assets/60195ffb-560f-40ff-a656-9b0795babf4a)
+![image](https://github.com/user-attachments/assets/60195ffb-560f-40ff-a656-9b0795babf4a)
 
 <h1 align="center">Hi 👋, I'm İsmail Umutluoğlu</h1>
 <h3 align="center">I am a Computer Engineering Student at Karabuk University</h3>
