@@ -1,15 +1,66 @@
-![image](https://github.com/user-attachments/assets/60195ffb-560f-40ff-a656-9b0795babf4a)
+# 🙋‍♂️ Merhaba, Ben [Ad Soyad]!
 
-<h1 align="center">Hi 👋, I'm İsmail Umutluoğlu</h1>
-<h3 align="center">I am a Computer Engineering Student at Karabuk University</h3>
-<p> I am studying Data Science and AI </p>
-<p>🌱 I'm currently learning Data Science,Image Proccesing  and  Algorithms </p>
-<p>💬Ask me about C , Python and any problem about programming </p>
+![Banner](https://via.placeholder.com/1200x400?text=Hoş+Geldiniz)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismai̇l umutluoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismai̇l umutluoglu" height="30" width="40" /></a>
-<a href="https://instagram.com/ismail.umtloglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismail.umtloglu" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Hakkımda 🚀
+
+- 🌱 Şu anda **[öğrendiğin veya geliştirdiğin şeyler]** üzerinde çalışıyorum.  
+- 🎯 Hedefim: **[hedeflerin, hayallerin veya projelerin hakkında bilgi]**.  
+- 🧑‍💻 Uzmanlıklarım: **[programlama dilleri, teknolojiler veya alanlar]**.  
+- 💬 Bana **[bir konuda, örneğin “front-end geliştirme” gibi]** ile ilgili sorular sorabilirsiniz!  
+- 📫 Bana ulaşın: **[e-posta adresin veya sosyal medya hesapların]**  
+- ⚡ Eğlenceli bir şey: **[hakkında ilginç veya komik bir gerçek]**  
+
+---
+
+## 🚀 Teknolojiler ve Araçlar
+
+### 💻 Programlama Dilleri  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+### ⚙️ Frameworkler & Kütüphaneler  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### 🛠️ Araçlar  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 🌟 Portföy Projelerim
+
+| Proje Adı      | Açıklama               | Link                |
+| -------------- | ---------------------- | ------------------- |
+| **Proje 1**    | Kısa açıklama.         | [GitHub Repo](#)    |
+| **Proje 2**    | Kısa açıklama.         | [GitHub Repo](#)    |
+| **Proje 3**    | Kısa açıklama.         | [GitHub Repo](#)    |
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=radical)
+
+---
+
+## 📫 Bana Ulaşın
+
+- **LinkedIn:** [Ad Soyad](https://linkedin.com/in/kullaniciadi)  
+- **Twitter:** [@kullaniciadi](https://twitter.com/kullaniciadi)  
+- **E-posta:** [e-posta adresiniz](mailto:eposta@adres.com)
+
+---
+
+## ✨ Eğlenceli Detaylar
+
+- 🎮 Hobilerim arasında [örneğin “oyun oynamak, fotoğrafçılık” gibi] yer alıyor.  
+- 📚 Şu sıralar **[okuduğun kitap veya ilgilendiğin konular]** ile ilgileniyorum.  
+- 🌍 Dünyayı gezmek istiyorum! Şimdiye kadar **[gezdiğin yerler]** ziyaret ettim.
+
+---
+
+⭐️ [Profilime Gitmek İçin Tıklayın!](https://github.com/kullaniciadi)
