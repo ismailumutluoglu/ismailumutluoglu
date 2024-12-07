@@ -26,9 +26,6 @@
     <a href="https://www.learn-c.org/" target="_blank">
         <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="70" style="border-radius:50%;"/>
     </a>
-    <a href="https://www.r-project.org/" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/100/007ACC/r-project.png" alt="R" width="70" style="border-radius:50%;"/>
-    </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="SQL" width="70" style="border-radius:50%;"/>
     </a>
