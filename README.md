@@ -53,7 +53,7 @@
 ## 📫 Bana Ulaşın
 
 - **LinkedIn:** [Ismail Umutluoglu](https://linkedin.com/in/IsmailUmutluoglu)  
-- **Twitter:** [ismail.umtlogöu](https://instagram.com/ismail.umtloglu)  
+- **Instagram:** [ismail.umtlogöu](https://instagram.com/ismail.umtloglu)  
 - **E-posta:** (ismailumutluoglu10@gmail.com)
 
 ---
