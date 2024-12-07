@@ -1,28 +1,29 @@
 # 🙋‍♂️ Merhaba, Ben İsmail Umutluoğlu
 
-![Banner](https://via.placeholder.com/1200x400?text=Hoş+Geldiniz)
+![Banner](![image](https://github.com/user-attachments/assets/c241fcb7-8e6c-4f51-b0ed-570f778f87fc)
+)
 
 ## Hakkımda 🚀
 
-- 🌱 Şu anda **[öğrendiğin veya geliştirdiğin şeyler]** üzerinde çalışıyorum.  
-- 🎯 Hedefim: **[hedeflerin, hayallerin veya projelerin hakkında bilgi]**.  
+- 🌱 Şu anda veri bilimi,görüntü işleme ve bilgisayar bilimleri üzerinde çalışıyorum.  
+- 🎯 Hedefim: Geleceğe umutla bakan her zaman ve heryerde istikrarlı bir şekilde çalışarak veri bilimi ve yapay zeka alanında yazılımlar geliştirmek .  
 - 🧑‍💻 Uzmanlıklarım: **[programlama dilleri, teknolojiler veya alanlar]**.  
-- 💬 Bana **[bir konuda, örneğin “front-end geliştirme” gibi]** ile ilgili sorular sorabilirsiniz!  
-- 📫 Bana ulaşın: **[e-posta adresin veya sosyal medya hesapların]**  
-- ⚡ Eğlenceli bir şey: **[hakkında ilginç veya komik bir gerçek]**  
+- 💬 Bana bilgisayar bilimleri ile ilgili (C,PYTHON,SQL,R...)  sorular sorabilirsiniz!  
+- 📫 Bana ulaşın: ismailumutluoglu10@gmail.com mail adresimden ulaşabilirsiniz. 
 
 ---
 
 ## 🚀 Teknolojiler ve Araçlar
 
 ### 💻 Programlama Dilleri  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PYTHON](![image](https://github.com/user-attachments/assets/753dc525-cd86-4507-a6d8-45ae42d66f83)
+)
+![JavaScript](![image](https://github.com/user-attachments/assets/6bb83846-0bea-4432-b1ce-c9651265d36f)
+)
+![C](![image](https://github.com/user-attachments/assets/c230820b-7ae2-4a1b-8dbb-bb251fc76bcc)
+)
 
-### ⚙️ Frameworkler & Kütüphaneler  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
 
 ### 🛠️ Araçlar  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -51,15 +52,14 @@
 
 - **LinkedIn:** [Ad Soyad](https://linkedin.com/in/kullaniciadi)  
 - **Twitter:** [@kullaniciadi](https://twitter.com/kullaniciadi)  
-- **E-posta:** [e-posta adresiniz](mailto:eposta@adres.com)
+- **E-posta:** (ismailumutluoglu10@gmail.com)
 
 ---
 
 ## ✨ Eğlenceli Detaylar
 
-- 🎮 Hobilerim arasında [örneğin “oyun oynamak, fotoğrafçılık” gibi] yer alıyor.  
-- 📚 Şu sıralar **[okuduğun kitap veya ilgilendiğin konular]** ile ilgileniyorum.  
-- 🌍 Dünyayı gezmek istiyorum! Şimdiye kadar **[gezdiğin yerler]** ziyaret ettim.
+- 🎮 Hobilerim arasında kitap okumak,basketbol oynamak,yüzmek,doğa yürüyüşü yapmak,kamp yapmak,aksiyon filmleri izlemek yer alıyor.  
+  - 🌍 Dünyayı gezmek istiyorum! Özellikle doğayla iç içe olan yerleri gezmek , keşfetmek ve oralarda vakit geçirmek istiyorum.
 
 ---
 
