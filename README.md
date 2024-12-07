@@ -60,9 +60,9 @@
 
 ## ✨ Eğlenceli Detaylar
 
-- 🎮 Hobilerim arasında kitap okumak,basketbol oynamak,yüzmek,doğa yürüyüşü yapmak,kamp yapmak,aksiyon filmleri izlemek yer alıyor.  
-  - 🌍 Dünyayı gezmek istiyorum! Özellikle doğayla iç içe olan yerleri gezmek , keşfetmek ve oralarda vakit geçirmek istiyorum.
+- 🎮 Hobilerim arasında bilgisayar oyunları oynamak özellikle (LOL,CSGO)kitap okumak,basketbol oynamak,yüzmek,doğa yürüyüşü yapmak,kamp yapmak,dizi ve film izlemek(aksiyon filmleri) yer alıyor.  
+- 🌍 Dünyayı gezmek istiyorum! Özellikle doğayla iç içe olan yerleri gezmek , keşfetmek ve oralarda vakit geçirmek istiyorum.
 
 ---
 
-⭐️ [Profilime Gitmek İçin Tıklayın!](https://github.com/kullaniciadi)
+⭐️ [Profilime Gitmek İçin Tıklayın!](https://github.com/ismailumutluoglu)
