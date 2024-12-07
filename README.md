@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm İsmail Umutluoğlu</h1>
 <h3 align="center">I am a Computer Engineering Student at Karabuk University</h3>
 <p> I am studying Data Science and AI </p>
+🔭 I’m currently working on
+🤝 I’m looking for help with
+🌱 I'm currently learning Data Science,Image Proccesing  and  Algorithms 
+💬Ask me about C , Python , problem solving
+📫 How to reach me ismailumutluoglu10@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ismai̇l umutluoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismai̇l umutluoglu" height="30" width="40" /></a>
