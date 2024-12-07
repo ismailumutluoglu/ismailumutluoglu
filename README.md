@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Teknolojiler ve Araçlar
+
 
 ## 💻 Programming Languages
 
