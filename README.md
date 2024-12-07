@@ -4,7 +4,7 @@
 <h3 align="center">I am a Computer Engineering Student at Karabuk University</h3>
 <p> I am studying Data Science and AI </p>
 <p>🌱 I'm currently learning Data Science,Image Proccesing  and  Algorithms </p>
-<p>💬Ask me about C , Python , problem solving</p>
+<p>💬Ask me about C , Python and any problem about programming </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
