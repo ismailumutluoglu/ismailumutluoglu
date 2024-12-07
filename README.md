@@ -1,7 +1,6 @@
 # 🙋‍♂️ Merhaba, Ben İsmail Umutluoğlu
 
-(https://github.com/user-attachments/assets/c241fcb7-8e6c-4f51-b0ed-570f778f87fc)
-)
+![Banner](https://github.com/user-attachments/assets/c241fcb7-8e6c-4f51-b0ed-570f778f87fc)
 
 ## Hakkımda 🚀
 
